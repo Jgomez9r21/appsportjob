@@ -1,0 +1,8 @@
+{
+  "name": "APPSPORTJOB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "a2d1280b"
+}
